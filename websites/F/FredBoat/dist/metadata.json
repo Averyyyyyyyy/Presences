@@ -1,0 +1,23 @@
+{
+  "$schema": "https://schemas.premid.app/metadata/1.7",
+  "author": {
+    "name": "Avery<3",
+    "id": "787415934247108629"
+  },
+  "service": "FredBoat",
+  "description": {
+    "en": "FredBoat is a free Discord music bot that delivers high-quality music to your Discord server."
+  },
+  "url": "fredboat.com",
+  "version": "1.0.0",
+  "logo": "https://i.imgur.com/HIlC2yu.png",
+  "thumbnail": "https://i.imgur.com/tWkJqTM.jpg",
+  "color": "#18bfe2",
+  "category": "music",
+  "tags": [
+    "music",
+    "fredboat",
+    "discord",
+    "bot"
+  ]
+}
